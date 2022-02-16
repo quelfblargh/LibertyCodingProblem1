@@ -1,0 +1,14 @@
+C:\Users\garre\source\repos\PrintingShapes\PrintingShapes\bin\Debug\netcoreapp3.1\PrintingShapes.exe
+C:\Users\garre\source\repos\PrintingShapes\PrintingShapes\bin\Debug\netcoreapp3.1\PrintingShapes.deps.json
+C:\Users\garre\source\repos\PrintingShapes\PrintingShapes\bin\Debug\netcoreapp3.1\PrintingShapes.runtimeconfig.json
+C:\Users\garre\source\repos\PrintingShapes\PrintingShapes\bin\Debug\netcoreapp3.1\PrintingShapes.runtimeconfig.dev.json
+C:\Users\garre\source\repos\PrintingShapes\PrintingShapes\bin\Debug\netcoreapp3.1\PrintingShapes.dll
+C:\Users\garre\source\repos\PrintingShapes\PrintingShapes\bin\Debug\netcoreapp3.1\PrintingShapes.pdb
+C:\Users\garre\source\repos\PrintingShapes\PrintingShapes\obj\Debug\netcoreapp3.1\PrintingShapes.csproj.AssemblyReference.cache
+C:\Users\garre\source\repos\PrintingShapes\PrintingShapes\obj\Debug\netcoreapp3.1\PrintingShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garre\source\repos\PrintingShapes\PrintingShapes\obj\Debug\netcoreapp3.1\PrintingShapes.AssemblyInfoInputs.cache
+C:\Users\garre\source\repos\PrintingShapes\PrintingShapes\obj\Debug\netcoreapp3.1\PrintingShapes.AssemblyInfo.cs
+C:\Users\garre\source\repos\PrintingShapes\PrintingShapes\obj\Debug\netcoreapp3.1\PrintingShapes.csproj.CoreCompileInputs.cache
+C:\Users\garre\source\repos\PrintingShapes\PrintingShapes\obj\Debug\netcoreapp3.1\PrintingShapes.dll
+C:\Users\garre\source\repos\PrintingShapes\PrintingShapes\obj\Debug\netcoreapp3.1\PrintingShapes.pdb
+C:\Users\garre\source\repos\PrintingShapes\PrintingShapes\obj\Debug\netcoreapp3.1\PrintingShapes.genruntimeconfig.cache
